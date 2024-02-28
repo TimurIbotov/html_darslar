@@ -1,0 +1,400 @@
+.u-body{
+    background-color: #eeeeee;
+    font-family: Roboto,sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab',serif;
+  }
+.section-1 {
+    min-height: 738px;
+}
+.u-img {
+    position: absolute;
+    width: 732px;
+    height: 661px;
+    margin: -718px calc(((100% - 1140px) / 2)) 0 auto;
+    margin-top: -351px;
+    margin-left: 500px;
+}
+section {
+    position: relative;
+}
+.u-text-1{
+    position: absolute;
+    margin: 20px 0;
+    margin-top: -250px;
+    margin-left: 70px;
+}
+.u-text-1_1 {
+    color: #363444;
+    font-size: 4.0623rem;
+}
+.u-text_hr {
+    width: 50px;
+}
+.u-text_P {
+    margin-top: 350px;
+    margin-left: 150px;
+}
+.u-section-1 {
+    background-color: white;
+    width: 1193px;
+    height: 133px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+*, ::before, ::after {
+    box-sizing: border-box;
+  }
+/* Section 2 */
+.section-2 {
+    height: 850px;
+    margin-top: -350px;
+}
+.u_img_1 {
+    position: absolute;
+    height: 546px;
+    box-shadow: 0 0 40px 0 rgba(0,0,0,0.4);
+    margin: 45px auto 0 0;
+    margin-left: 100px;
+}
+.u-shape {
+    width: calc(((100% - 1140px) / 2) + 1050px);
+    left: auto;
+    right: 0;
+}
+.u-shape-1 {
+    position: absolute;
+    height: 100% ;
+    top: 0px;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+.img_-1{
+    position: absolute;
+    width: 300px;
+    height: 119px;
+    margin: 0 auto 0 -20px;
+    object-fit: contain;
+    margin-left: 450px;
+    margin-top: 10px;
+}
+.h5{
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 600px;
+}
+.p {
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 630px;
+    display: table;
+
+}
+.u-text_2 {
+    margin-left: 450px;
+    margin-top: 50px;
+    position: absolute;
+    font-size: 2.25rem;
+}
+.text-p {
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 150px;
+}
+.u-link {
+    position: absolute;
+    text-decoration: none;
+    display: table;
+    stroke: #0a9ec6;
+    color: black;
+    margin-left: 450px;
+    margin-top: 250px;
+}
+.u-image{
+    width: 260px;
+    object-fit: cover;
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 320px;
+    height: 275px;
+}
+
+.h5-1{
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 600px;
+}
+.p-1{
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 630px;  
+}
+.u-image-1{
+    width: 260px;
+    object-fit: cover;
+    position: absolute;
+    margin-left: 720px;
+    margin-top: 320px;
+    height: 275px;
+}
+.h5-2{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 600px;
+}
+.p-2 {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 630px;  
+}
+.u-image-2{
+    width: 250px;
+    object-fit: cover;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 320px;
+    height: 275px;
+}
+.h5-3{
+    position: absolute;
+    margin-left: 1070px;
+    margin-top: 600px;
+}
+.p-3{
+   position: absolute;
+    margin-left: 1070px;
+    margin-top: 630px;
+}
+
+
+/* Section 3 */
+
+.img-u {
+    width: 848px;
+    height: 484px;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -80px;
+}
+
+.section-img {
+    margin-left: 450px;
+}
+.text-section {
+    position: absolute;
+    margin-top: 70px;
+}
+.section-white{
+    /* position: absolute; */
+    background-color: #ffffffff;
+    width: calc(((100% - 1140px) / 2) + 1042px);
+    height: 338px;
+    margin: 345px auto 0 0;
+}
+.section-h3 {
+    position: absolute;
+    margin-top: 450px;
+}
+.section-p {
+    position: absolute;
+    margin-top: 500px;
+}
+.section-h3-1 {
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 350px;  
+}
+.section-p_2 {
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 350px;
+}
+.section-h3-2 {
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 750px;  
+}
+.section-p_3 {
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 750px;
+}
+p {
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 1rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container {
+    margin-top: -700px;
+}
+
+.u-section-4 {
+    margin-top: 710px;
+    width: 100%;
+    height: 800px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.u-image-3 img {
+    margin-top: 60px;
+    height: 680px;
+}
+
+.u-image-4 {
+    margin-bottom: 580px;
+    margin-left: 50px;
+}
+
+.u-image-3 h2 {
+    position: absolute;
+    margin-top: -660px;
+    margin-left: 640px;
+}
+
+
+.u-image-3 p {
+    position: absolute;
+    margin-top: -560px;
+    margin-left: 620px;
+    font-size: 15px;
+}
+
+.u-text11 a {
+    position: absolute;
+    text-decoration: none;
+    display: table;
+    stroke: #0a9ec6;
+    color: black;
+    margin-top: -390px;
+    margin-left: 620px;
+}
+
+
+
+.quti-ichida-nuqtarasm img {
+    position: absolute;
+    width: 210px;
+    height: 80px;
+}
+
+.text-tagidagi-rasm {
+    margin-top: 130px;
+    margin-left: 80px;
+}
+
+.quti-ichida-nuqtarasm h1{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 150px;
+    color: rgb(73, 71, 71);
+    position: absolute;
+}
+
+.text-loremipson {
+    position: absolute;
+    margin-top: 250px;
+}
+
+.text-loremipson p {
+    font-size: 14px;
+    margin-left: 100px;
+    margin-top: -5px;
+    color: rgb(74, 72, 72);
+    
+}
+
+.text-loremipson a {
+    color: rgb(38, 38, 38);
+    border-bottom: none;
+    
+}
+
+
+.rasmlar-ucun-quti img{
+    width: 290px;
+    height: 390px;
+    z-index: 2;
+    position: absolute;
+
+}
+
+.rasm-quti1 {
+    margin-top: 100px;
+    margin-left: 650px;
+    z-index: 3;
+}
+
+
+.rasm-quti2 {
+    margin-top: 100px;
+    margin-left: 960px;
+    z-index: 3;
+}
+
+
+
+
+.u-section {
+    background-color: #eeeeee;
+    width: 80%;
+    height: 700px;
+    z-index: -2;
+    
+}
+
+.quti12 {
+    width: 1100px;
+    height: 300px;
+    background-color: white;
+    margin-top: 400px;
+    margin-left: 195px;
+    position: absolute;
+    z-index: 1;
+}
+
+.quti12 h2 {
+    margin-left: 500px;
+    margin-top: 130px;
+    font-size: 20px;
+}
+
+
+.quti12 p {
+    margin-left: 500px;
+    font-size: 14px;
+}
+
+
+.oxirgi-qismiqora {
+    width: 100%;
+    height: 120px;
+    background-color: rgb(71, 70, 70);
+}
+
+.hover1:hover {
+    text-decoration: none;
+    color: #918f8f;
+}
+
+.hover2:hover {
+    color: #918f8f;
+    text-decoration: none;
+}
+
+.ulanishlar2 a {
+    color: rgb(41, 184, 212);
+    font-size: 13px;
+
+}
+
+.ulanishlar2 p {
+    color: white;
+    font-size: 13px;
+}
+
+.ulanishlar2 {
+    text-align: center;
+}
