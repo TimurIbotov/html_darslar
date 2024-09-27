@@ -1,0 +1,489 @@
+.nav {
+    background-color: blueviolet;
+}
+/* Section_1 */
+    .section_1 {
+        background-color: #494393;
+        width: 1296px;
+        height: 850px;
+    }
+    .krug {
+        position: inherit;
+        background-color: white;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        position: absolute;
+        margin-left: 130px;
+        margin-top: 20px;
+    }
+    .blue_div {
+        position: absolute;
+        background-image: none;
+        width: 304px;
+        left: 450px;
+        background-color: aqua;
+        height: 110%;
+        margin-top: 1%;
+    }
+    .u-img-1 {
+        position: absolute;
+        width: 700px;
+        height: 500px;
+        margin-top: 110px;
+        margin-left: 280px;
+    }
+    .whithe_div {
+        margin-top: 490px;
+        margin-left: 720px;
+        background-color:  white;
+        position: absolute;
+        width: 500px;
+        height: 320px;
+    }
+    .Bosh_suz {
+        margin-left: 50px;
+        margin-top: 20px;
+        color: #494393;
+    }
+    .text1 {
+        color: rgb(68, 68, 68);
+        margin-left: 50px;
+        margin-top: 20px;
+        line-height: 1.8;
+        border: 10px;
+    }
+    .text2 {
+        color: rgb(68, 68, 68);
+        margin-left: 50px;
+        margin-top: 20px;
+        line-height: 1.8;
+    }
+    .button_1 {
+        width: 200px;
+        display: inline-block;
+        padding: 10px 20px; /* Отступы вокруг текста */
+        font-size: 16px;
+        color: white; /* Цвет текста */
+        background-color: #494393; /* Цвет фона */
+        text-decoration: none; /* Убирает подчеркивание */
+        border-radius: 20px; /* Закругляет углы */
+        text-align: center;
+        margin-left: 50px;
+        font-weight: 700;
+    }
+    .button_1:hover {
+        border-color: aqua;
+        background-color: aqua;
+        color: #494393;
+    }
+    /* SECTION 2 */
+    .section_2 {
+        background-color: #494393;
+    }
+    .bosh_h4 {
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        color: #c2bfed;
+        font-size: 1.5rem;
+        margin-right: 64px;
+        font-weight: 700;
+    }
+    .bosh_h1 {
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        font-weight: 700;
+        margin-top: 30px;
+        margin-right: 64px;
+    }
+    .blue_div2 {
+        position: absolute;
+        background-color: aqua;
+        background-image: none;
+        width: 1296px;
+        height: 150px;
+        margin-top: 130px;
+    }
+    .quti_1 {
+        margin-left: 100px;
+    }
+    .bosh_h4_2 {
+        font-size: 1.5rem;
+        font-weight: 700;   
+    }
+    .text_2 {
+        font-size: 1rem;
+    }
+    .quti_2 {
+        margin-left: 500px;
+    }
+    .quti_3 {
+        margin-left: 900px;
+    }
+    .button_2 {
+        width: 200px;
+        display: inline-block;
+        padding: 10px 20px; /* Отступы вокруг текста */
+        font-size: 16px;
+        color: #494393; /* Цвет текста */
+        background-color: aqua; /* Цвет фона */
+        text-decoration: none; /* Убирает подчеркивание */
+        border-radius: 20px; /* Закругляет углы */
+        text-align: center;
+        margin-left: 50px;
+        font-weight: 700;
+    }
+    .button_2:hover {
+        border-color: white;
+        background-color: white;
+        color: #494393;
+        margin-left: 500px;
+    }
+    .text3 {
+        color: white;
+        margin-left: 50px;
+        margin-top: 20px;
+        line-height: 1.8;
+        font-weight: 300;
+        margin-left: 600px;
+    }
+    /* SECTION 3 */
+    .section_3 {
+        background-color: #494393;
+        height: 700px;
+    }
+
+    .bosh_h2 {
+        color: white;
+        font-size: 3.8rem;
+        /* font-weight: 700; */
+        margin-left: 150px;
+    }
+    .img_komp {
+        
+        width: 700px;
+        height: 500px;
+        margin-left: 150px;
+    }
+    .blue_div3 {
+        position: absolute;
+        background-color: aqua;
+        background-image: none;
+        width: 150px;
+        height: 150px;
+        margin-top: 250px;
+    }
+    .text_3 {
+        margin-left: 1000px;
+    }
+    .bosh_h3 {
+        margin-left: 950px;
+    }
+    .MORE {
+        margin-left: 1000px;
+    }
+    .quti_4 {
+        margin-top: 100px;
+    }
+    .text4 {
+        margin-left: 150px;
+    }
+    /* SECTION_4 */
+    .blue_div4 {
+        background-color: #72efe9;
+        /* width: 400px; */
+        height: 150px;
+    }
+    .text_h1 {
+        position: absolute;
+        color: #494393;
+        font-size: 1.5;
+        margin-left: 130px;
+        margin-top: 60px;
+    }
+    .button {
+        width: 200px;
+        display: inline-block;
+        padding: 10px 20px; /* Отступы вокруг текста */
+        font-size: 16px;
+        color: white; /* Цвет текста */
+        background-color: #494393; /* Цвет фона */
+        text-decoration: none; /* Убирает подчеркивание */
+        border-radius: 20px; /* Закругляет углы */
+        text-align: center;
+        margin-top: 70px;
+        margin-left: 1000px;
+        /* transition: background-color 0.3s ease, transform 0.3s ease; Плавные переходы для фона и масштабирования */
+    }
+    .button:hover {
+        background-color: aqua; /* Цвет фона при наведении */
+        /* transform: scale(1.05); Легкое увеличение при наведении */
+    }
+    
+    /* .button:active {
+        background-color: #1c5a9e; /* Цвет фона при нажатии */
+
+    /* SECTION 5 */
+    .section_5 {
+        background-color: #494393;
+        height: 940px;
+    }
+    .fg {
+        width: 500px;
+        height: 500px;
+        margin-left: 500px;
+    }
+    .Krug2 {
+        border-radius: 50%;
+        position: absolute;
+        background-color: #72efe9;
+        width: 150px;
+        height: 150px;
+        margin-top: 50px;
+        margin-left: 1050px;
+    }
+    .whithe_div2 {
+        position: absolute;
+        background-color: white;
+        width: 400px;
+        height: 500px;
+        margin-left: 200px;
+        /* text-align: center; */
+    }
+    .text_4 {
+        margin-left: 50px;
+        margin-top: 100px;
+        font-size: 1.3rem;
+        font-weight: 300;
+        /* margin-right: 50px; */
+    }
+    .quti_9 {
+        position: absolute;
+        margin-top: 220px;
+    }
+    .text6 {
+        /* color: white; */
+        margin-left: 50px;
+        margin-top: 20px;
+        line-height: 1.8;
+        font-size: 1.3rem;
+        font-weight: 300;
+        margin-left: 50px;   
+    }
+    .button2 {
+        width: 200px;
+        display: inline-block;
+        padding: 10px 20px; /* Отступы вокруг текста */
+        font-size: 16px;
+        color: white; /* Цвет текста */
+        background-color: #494393; /* Цвет фона */
+        text-decoration: none; /* Убирает подчеркивание */
+        border-radius: 20px; /* Закругляет углы */
+        text-align: center;
+        margin-top: 10px;
+        margin-left: 30px;
+        letter-spacing: 1px;
+        /* transition: background-color 0.3s ease, transform 0.3s ease; Плавные переходы для фона и масштабирования */
+    }
+    .blue_div5 {
+        position: absolute;
+        background-color: aqua;
+        background-image: none;
+        width:500px;
+        height: 320px;
+        margin-left: 760px;
+        margin-top: 400px;   
+    }
+    .h1_2 {
+        margin-top: 20px;
+        color: #494393;
+        margin-left: 20px;
+    }
+    /* SECTION 6 */
+    .section_6 {
+        background-color: #494393;
+        }
+    .h1_3 {
+        position: absolute;
+        color: white;
+        font-size: 3.75rem;
+        font-weight: 700;
+        line-height: 1.1;
+        margin-left: 100px;
+        margin-top: 150px;
+    }
+    .krug3 {
+        border-radius: 50%;
+        position: absolute;
+        background-color: #72efe9;
+        width: 100px;
+        height: 100px;
+        margin-top: 325px;
+        margin-left: 100px;
+    }
+    .text7{
+        color: white;
+        font-weight: 300;
+        font-size: 1.25rem;
+        line-height: 1.6;
+        margin-left: 750px;
+        margin-top: 150px;
+    }
+    .button3 {
+        width: 200px;
+        display: inline-block;
+        padding: 10px 20px; /* Отступы вокруг текста */
+        font-size: 16px;
+        color: #494393; /* Цвет текста */
+        background-color: aqua; /* Цвет фона */
+        text-decoration: none; /* Убирает подчеркивание */
+        border-radius: 20px; /* Закругляет углы */
+        text-align: center;
+        margin-left: 750px;
+        margin-top: 380px;
+        /* transition: background-color 0.3s ease, transform 0.3s ease; Плавные переходы для фона и масштабирования */
+    }
+    .button3:hover {
+        background-color: white; /* Цвет фона при наведении */
+        /* transform: scale(1.05); Легкое увеличение при наведении */
+    }
+    /* SECTION 7 */
+    .section_7{
+        background-color: #494393;
+        height: 1100px;
+    }
+    .blue_div6 {
+        background-color: #72efe9;
+        width: 1000px;
+        height: 125px;
+        margin-left: 125px;
+        margin-top: 300px;
+        position: absolute;
+    }
+    .img_telefon {
+        position: relative;
+        margin-bottom: 150px;
+        width: 810px;
+        height: 475px;
+        margin-left: 225px;
+        margin-top: 100px;
+    }
+    .h2_2 {
+        position: absolute;
+        font-size: 2.25rem;
+        line-height: 1.1;
+        margin-left: 450px;
+        margin-top: 650px;
+        font-weight: 700;
+    }
+    .text8 {
+        color: white;
+        font-weight: 300;
+        font-size: 1.25rem;
+        line-height: 1.8;
+        margin-left: 325px;
+        margin-top: 725px;
+    }
+    .text10 {
+        position: absolute;
+        color: white;
+        margin-left: 50px;
+        /* margin-top: 20px; */
+        line-height: 1.8;
+        font-size: 1.125rem;
+        font-weight: 300;
+        margin-left: 525px;
+        margin-top: 900px;   
+    }
+    .button5 {
+        position: absolute;
+        width: 200px;
+        display: inline-block;
+        padding: 10px 20px; /* Отступы вокруг текста */
+        font-size: 16px;
+        color: #494393; /* Цвет текста */
+        background-color: aqua; /* Цвет фона */
+        text-decoration: none; /* Убирает подчеркивание */
+        border-radius: 20px; /* Закругляет углы */
+        text-align: center;
+        margin-left: 500px;
+        margin-top: 980px;
+        /* transition: background-color 0.3s ease, transform 0.3s ease; Плавные переходы для фона и масштабирования */
+    }
+    .button5:hover {
+        background-color: white; /* Цвет фона при наведении */
+        /* transform: scale(1.05); Легкое увеличение при наведении */
+    }
+
+    /* SECTION 8 */
+    .section_8 {
+        background-color: #494393;
+    }
+    .blue_div_1 {
+        margin-left: 100px;
+        background-color: #72efe9;
+        width: 400px;
+        height: 600px;
+    }
+    .img_robot {
+        margin-top: 50px;
+        margin-left: 50px;
+        width: 550px;
+        height: 500px;
+    }
+    .S8_quti2 {
+        position: absolute;
+        width: 500px;
+        height: 350px;
+        background-color: #494393;
+        margin-left: 55%;
+        margin-top: -35%;
+    }
+    .S8_button {
+        height: 45px; 
+        width: 500px;
+        color: white;
+        margin-top: 0%;
+    }
+    .S8_button a {
+        width: 500px;
+        height: 45px;
+        background-color: #72efe9;
+        letter-spacing: 3px;
+        color: white;
+        border-color: #72efe9;
+        display: inline-block;
+        padding: 10px 20px; /* Отступы вокруг текста */
+        font-size: 16px;
+        text-decoration: none;
+        text-align: center;
+    }
+    
+    .S8_button :hover {
+        background-color: #494393;
+        color: white;
+        border-color: #494393;
+    }
+    .text11 {
+        position: absolute;
+        margin-left: 800px;
+        color: white;
+    }
+    /* SECTION 9 */
+    .Future {
+        position: absolute;
+        text-align: center;
+        margin-top: 3%;
+        margin-left: 30%;
+        color: white;
+    }
+    .future {
+        margin-top: 20%;
+    }
+    .future a {
+        color: #bee1f5;
+    }
+    .future :hover {
+        text-decoration: none;
+        color: rgb(131, 132, 132);
+    }
